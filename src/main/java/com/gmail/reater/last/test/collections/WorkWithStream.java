@@ -26,13 +26,13 @@ public class WorkWithStream {
         """;
 
         final List<String> strings = Arrays.stream(text.split("\\PL+")).toList();
-        final Optional<Integer> optionalInteger = strings.stream()
+        final Optional<Integer> optionalInteger = strings.parallelStream()
                 .limit(50)
                 .map(s -> s.length())
-                .map(integer -> integer % 10)
+                .map(integer -> integer % 100)
                 .distinct()
-                .filter(value -> value > 3)
-                .findFirst();
+                .filter(value -> value > 10)
+                .findAny();
         System.out.println(optionalInteger);
 
 
@@ -44,7 +44,7 @@ public class WorkWithStream {
         final Optional<Integer> first = ints.stream()
                 .limit(50)
                 .map(operand -> operand % 10)
-                .distinct().filter(value -> value > 3)
+                .distinct().filter(value -> value < 3)
                 .findFirst();
 
         System.out.println(first);
