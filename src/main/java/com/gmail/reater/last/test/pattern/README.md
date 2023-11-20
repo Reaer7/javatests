@@ -10,5 +10,7 @@
 1. [Proxy](https://www.youtube.com/watch?v=S70JruQ8Ah4)
 1. [Composite](https://www.youtube.com/watch?v=LaJmrZWbDQQ)
 1. [Decorator / Wrapper](https://www.youtube.com/watch?v=tLYFoFfFRY8)
+1. [Abstract Factory](https://www.youtube.com/watch?v=lDAmTcmnpx4)
+1. [Factory Method](https://www.youtube.com/watch?v=W4zg-wmfeYM)
 
 ---
