@@ -15,8 +15,8 @@
 2.2. [Bridge](https://www.youtube.com/watch?v=NqvEWeVc6ZE)  
 2.3. [Composite](https://www.youtube.com/watch?v=LaJmrZWbDQQ)  
 2.4. [Decorator / Wrapper](https://www.youtube.com/watch?v=tLYFoFfFRY8)  
-2.5. [Facade](https://www.youtube.com/watch?v=zULKlUZ65uw&list=PLCnuT5ArKhsk8su85Z752tyGWL8-r-tRR&index=11)  
-2.6. [Flyweight]()  
+2.5. [Facade](https://youtu.be/zULKlUZ65uw?si=SpNf9VPLkM4sjNFF)  
+2.6. [Flyweight](https://youtu.be/SsCtAmlatsI?si=MwVkv0xodCK6xG-g)  
 2.7. [Proxy](https://www.youtube.com/watch?v=S70JruQ8Ah4)
 
 
