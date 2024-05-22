@@ -24,7 +24,7 @@
 3.1. [Chain of Responsibility](https://youtu.be/MBeHK4TJ_uE)  
 3.2. [Command]()  
 3.3. [Iterator]()  
-3.4. [Mediator]()  
+3.4. [Mediator](https://youtu.be/dkDwPzZ8CuY)  
 3.5. [Memento](https://youtu.be/PYh8F_EZEx8)  
 3.6. [Observer](https://youtu.be/JMF5nlAc4To)  
 3.7. [State](https://youtu.be/wxSuNGsaeoQ)  
