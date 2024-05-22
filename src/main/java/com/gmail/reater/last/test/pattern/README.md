@@ -21,7 +21,7 @@
 
 
 3. Structural - patterns that consider how objects implement entities that are more complex in structure and behavior.  
-3.1. [Chain of Responsibility]()  
+3.1. [Chain of Responsibility](https://youtu.be/MBeHK4TJ_uE)  
 3.2. [Command]()  
 3.3. [Iterator]()  
 3.4. [Mediator]()  
