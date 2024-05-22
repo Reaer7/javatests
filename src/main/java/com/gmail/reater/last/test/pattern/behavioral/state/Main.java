@@ -3,12 +3,15 @@ package com.gmail.reater.last.test.pattern.behavioral.state;
 public class Main {
 
     /*
-        Шаблонный метод - определяет скелет алгоритма,
-        перекладывая ответственность за некоторые его шаги на подклассы.
-        Паттерн позволяет подклассам переопределять шаги алгоритма,
-        не меняя его общей структуры
+        Состояние - это паттерн проектирования,
+        который позволяет объекту варьировать свое поведение
+        при изменении внутреннего состояния.
+        При этом создается впечатление, что поменялся класс объекта
     */
     public static void main(String[] args) {
-
+        State stateA = new ConcreteStateA();
+        Context context = new Context(stateA);
+        context.doAction();
+        context.doAction();
     }
 }
