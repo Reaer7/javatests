@@ -29,7 +29,7 @@
 3.6. [Observer]()  
 3.7. [State]()  
 3.8. [Strategy]()  
-3.9. [Template Method]()  
+3.9. [Template Method](https://youtu.be/AmvWNbOdZLc)  
 3.10. [Visitor]()  
 
 ---
