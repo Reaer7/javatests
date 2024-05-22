@@ -25,7 +25,7 @@
 3.2. [Command]()  
 3.3. [Iterator]()  
 3.4. [Mediator]()  
-3.5. [Memento]()  
+3.5. [Memento](https://youtu.be/PYh8F_EZEx8)  
 3.6. [Observer](https://youtu.be/JMF5nlAc4To)  
 3.7. [State](https://youtu.be/wxSuNGsaeoQ)  
 3.8. [Strategy]()  
