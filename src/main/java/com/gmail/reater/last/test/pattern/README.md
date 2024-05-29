@@ -22,7 +22,7 @@
 
 3. Behavioral - patterns that describe algorithms and interactions between classes and objects, that is, their behavior.  
 3.1. [Chain of Responsibility](https://youtu.be/MBeHK4TJ_uE)  
-3.2. [Command]()  
+3.2. [Command](https://youtu.be/6TkRrghM_Zs)  
 3.3. [Iterator](https://youtu.be/BzU469M8wNM)  
 3.4. [Mediator](https://youtu.be/dkDwPzZ8CuY)  
 3.5. [Memento](https://youtu.be/PYh8F_EZEx8)  
