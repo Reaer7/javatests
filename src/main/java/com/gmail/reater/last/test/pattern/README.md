@@ -30,6 +30,6 @@
 3.7. [State](https://youtu.be/wxSuNGsaeoQ)  
 3.8. [Strategy](https://youtu.be/6vUYCmzArxg)  
 3.9. [Template Method](https://youtu.be/AmvWNbOdZLc)  
-3.10. [Visitor]()  
+3.10. [Visitor](https://youtu.be/QuYcWQoM2IY)  
 
 ---
