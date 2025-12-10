@@ -1,0 +1,1 @@
+[source](https://struchkov.dev/blog/ru/transactional-isolation-levels/)
